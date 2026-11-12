@@ -1,0 +1,7 @@
+Ataque de força bruta
+
+Um ataque de força bruta consiste em tentar muitas combinações de usuário e senha até acertar uma credencial válida. O atacante normalmente automatiza o processo com ferramentas que testam milhares de tentativas por minuto.
+
+Existem variações. No password spraying, o atacante testa poucas senhas comuns, como "123456" ou "senha123", em muitas contas diferentes, para evitar o bloqueio por excesso de tentativas em uma única conta. No credential stuffing, ele usa pares de usuário e senha vazados de outros sites, apostando que as pessoas reutilizam senhas.
+
+As principais defesas são: limitar o número de tentativas de login, bloquear temporariamente a conta ou o endereço IP após várias falhas, exigir senhas longas e únicas, usar autenticação multifator (MFA) e monitorar os registros de login em busca de picos de falhas.

@@ -1,0 +1,9 @@
+Phishing
+
+Phishing é uma técnica de engenharia social em que o atacante se passa por uma pessoa ou empresa confiável para enganar a vítima e obter senhas, dados de cartão ou fazê-la instalar um programa malicioso. O canal mais comum é o e-mail, mas também existe o smishing, que usa mensagens SMS, e o vishing, que usa ligações de voz.
+
+O spear phishing é uma versão direcionada: o atacante pesquisa a vítima e personaliza a mensagem, o que a torna mais convincente do que um e-mail genérico enviado em massa.
+
+Sinais de alerta incluem remetente com endereço estranho, senso de urgência ("sua conta será bloqueada hoje"), erros de escrita, anexos inesperados e links cujo domínio real é diferente do que aparece no texto.
+
+Para se proteger, não clique em links suspeitos, confira o endereço do remetente, use autenticação multifator e reporte a mensagem à equipe de segurança. Mesmo que a senha seja roubada, o MFA dificulta o acesso do atacante.

@@ -1,0 +1,9 @@
+SIEM (Security Information and Event Management)
+
+Um SIEM é uma plataforma que coleta registros (logs) de várias fontes, como servidores, firewalls, estações de trabalho e aplicações, e os centraliza em um único lugar. O sistema normaliza os dados, ou seja, converte formatos diferentes em um padrão comum, para que possam ser comparados e pesquisados.
+
+A principal função do SIEM é a correlação de eventos: regras que ligam eventos aparentemente isolados para identificar um ataque. Por exemplo, muitas falhas de login seguidas de um login bem-sucedido, vindas do mesmo IP, podem gerar um alerta de possível força bruta.
+
+Os alertas são analisados por analistas de um centro de operações de segurança (SOC). Um desafio comum são os falsos positivos, alertas que não representam ameaça real e consomem tempo da equipe. Por isso, as regras precisam ser ajustadas continuamente.
+
+O SIEM também ajuda na investigação de incidentes, pois guarda o histórico dos eventos por um período definido de retenção.

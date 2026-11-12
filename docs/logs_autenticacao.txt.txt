@@ -1,0 +1,9 @@
+Logs de autenticação
+
+Os logs de autenticação registram tentativas de login em um sistema. Um registro típico contém data e hora, nome de usuário, endereço IP de origem, método de autenticação e o resultado (sucesso ou falha).
+
+No Windows, o registro de segurança usa identificadores de evento. O evento 4625 indica uma falha de logon e o evento 4624 indica um logon bem-sucedido. No Linux, os registros de autenticação ficam em /var/log/auth.log em distribuições como Debian e Ubuntu, e em /var/log/secure em distribuições como Red Hat.
+
+Padrões suspeitos incluem muitas falhas seguidas em curto intervalo, uma falha repetida seguida de sucesso, logins em horários incomuns, acessos a partir de um país ou IP nunca visto para aquele usuário e tentativas em várias contas pelo mesmo IP.
+
+Para que a análise seja confiável, os relógios dos sistemas precisam estar sincronizados, normalmente por NTP. Sem isso, não é possível ordenar corretamente os eventos de máquinas diferentes.
