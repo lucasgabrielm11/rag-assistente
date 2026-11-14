@@ -35,7 +35,7 @@ rag-assistente/
 Requisitos: Python 3.9+ e uma chave de API do [Google AI Studio](https://aistudio.google.com).
 
 ```bash
-git clone https://github.com/SEU_USUARIO/rag-assistente.git
+git clone https://github.com/lucasgabrielm11/rag-assistente.git
 cd rag-assistente
 
 python -m venv .venv
